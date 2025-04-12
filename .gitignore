@@ -53,7 +53,7 @@ end,
 })
 
 Rayfield:Notify({
-   Title = "Hello,user thank for using my script",
+   Title = "Thank for using my script💕",
    Content = "My script is keyless",
    Duration = 6.5,
    Image = 4483362458,
